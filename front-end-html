@@ -15,17 +15,22 @@
         <div class="logo">
           <img
             id="header-img"
-            src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
+            src="https://en.wikipedia.org/wiki/File:Dog_Breeds.jpg"
             alt="original trombones logo"
           />
         </div>
 
         <nav id="nav-bar">
           <ul>
-            <li><a class="nav-link" href="#features">Features</a></li>
-            <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
-            <li><a class="nav-link" href="#pricing">Pricing</a></li>
+            <li><a class="nav-link" href="#Read">Read</a></li>
+            <li><a class="nav-link" href="Play">Play</a></li>
+            <li><a class="nav-link" href="#Donate">Donate</a></li>
+            <li><a
+class="nav-link"
+href="#Collect">Collect</a></
+li>
           </ul>
+
         </nav>
       </header>
 
